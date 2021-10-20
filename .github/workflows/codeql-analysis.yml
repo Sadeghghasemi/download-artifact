@@ -1,4 +1,4 @@
-name: "Code scanning - action"
+Sadegh: "Code scanning - action"
 
 on:
   push:
